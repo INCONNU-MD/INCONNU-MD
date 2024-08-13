@@ -2,7 +2,7 @@
 
 **INCONNU-MD/INCONNU-MD**
 
-<h1 align="center"> THE INCONNU-MD DEVICE </h1>
+<h1 align="center"> THE X-V2-MD DEVICE </h1>
 <p align="center">  
   
 ***
@@ -26,14 +26,9 @@
 
 ***2.`GET SESSION_ID BY`***
 
-ii. [`SCANING QR 1`]( ) OR
+(https://inconnu-session.onrender.com )
 
- [`SCANNING QR 2 `]( )
-
-ii. [`PAIRING CODE 1 `]( ) OR [`PAIRING CODE 2 `]( )
-
-
-***
+**
 
 #### DEPLOY TO HEROKU 
 **1. If You Don't Have An Account On Heroku**
