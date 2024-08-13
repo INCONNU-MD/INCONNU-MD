@@ -2,7 +2,7 @@
 
 **INCONNU-MD/INCONNU-MD**
 
-<h1 align="center"> THE X-V2-MD DEVICE </h1>
+<h1 align="center"> THE INCONNU-MD DEVICE </h1>
 <p align="center">  
   
 ***
