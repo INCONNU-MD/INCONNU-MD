@@ -27,6 +27,28 @@ meet 𝙄𝙣𝙘𝙤𝙣𝙣𝙪✵𝙈𝘿 , Your All-in-One WhatsApp Exciteme
     
 <a href='https://session-sacc.onrender.com//' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
+#### DEPLOY TO HEROKU 
+
+1. If You don't have a account in Heroku. Create a account.
+    <br>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+2. Now Deploy
+    <br>
+- *
+
+
+#### DEPLOY TO KOYEB
+
+1. If You don't have a account in Koyeb. Create a account.
+    <br>
+<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=koyeb' width="96.35" height="28"/></a></p>
+
+2. Now Deploy
+    <br>
+<a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/SuhailTechInfo/Suhail-black?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+
+- *
 
 ###  
 # My Awesome Project
