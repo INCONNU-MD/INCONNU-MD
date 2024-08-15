@@ -48,19 +48,3 @@ Join our WhatsApp support group for assistance and discussions!
 
 [![WhatsApp Support Group](https://img.shields.io/badge/Join-WhatsApp%20Support%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/DjDaUU8daIOKk0JByPmUBE)
 
-
-### 𝐆𝐎𝐎𝐆𝐋𝐄 𝐂𝐋𝐎𝐔𝐃 𝐀𝐍𝐃 𝐀𝐍𝐘 𝐎𝐓𝐇𝐄𝐑 𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋 𝐅𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐄 𝐆𝐈𝐕𝐄𝐍 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐀 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [INCONNU-MD](https://github.com/INCONNU-MD/INCONNU-MD) ON ANY TERMINAL
-```
-sudo apt -y update && sudo apt -y upgrade
-```
-```
-sudo apt -y install git ffmpeg curl
-```
-```
-curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
-```
-```
-sudo -E bash nodesource_setup.sh
-```
-
