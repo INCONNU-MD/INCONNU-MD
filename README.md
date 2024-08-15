@@ -50,7 +50,7 @@ meet 𝙄𝙣𝙘𝙤𝙣𝙣𝙪✵𝙈𝘿 , Your All-in-One WhatsApp Exciteme
 
 - *
 
-<h2 align="center"> ⭐ *🇸🇹🇦🇷 🇹🇭🇮🇸 🇷🇪🇵🇴 🇮🇫 🇱🇮🇰🇪 🇮🇳🇨🇴🇳🇳🇺-🇲🇩*
+<h2 align="center"> 🎊 *𝐈𝐍𝐂𝐎𝐍𝐍𝐔 𝐓𝐄𝐂𝐇*
 </h2>
 
  
