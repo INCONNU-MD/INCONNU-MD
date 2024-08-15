@@ -50,7 +50,7 @@ Join our WhatsApp support group for assistance and discussions!
 
 
 ### 𝐆𝐎𝐎𝐆𝐋𝐄 𝐂𝐋𝐎𝐔𝐃 𝐀𝐍𝐃 𝐀𝐍𝐘 𝐎𝐓𝐇𝐄𝐑 𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋 𝐅𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐄 𝐆𝐈𝐕𝐄𝐍 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐀 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [WASI MD V2](https://github.com/INCONNU-MD/INCONNU-MD) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [INCONNU-MD](https://github.com/INCONNU-MD/INCONNU-MD) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
