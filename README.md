@@ -48,34 +48,5 @@ Join our WhatsApp support group for assistance and discussions!
 
 [![WhatsApp Support Group](https://img.shields.io/badge/Join-WhatsApp%20Support%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/DjDaUU8daIOKk0JByPmUBE)
 
-## DEPLOY TO HEROKU 
 
-1. If You don't have a account in Heroku. Create a account.
-    <br>
-<a href='https://signup.heroku.com/' 
-
-2. Now Deploy
-    <br>
-<a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
-
-#### DEPLOY TO KOYEB
-
-1. If You don't have a account in Koyeb. Create a account.
-    <br>
-<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=koyeb' width="96.35" height="28"/></a></p>
-
-2. Now Deploy
-    <br>
-<a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/SuhailTechInfo/Suhail-black?style=for-the-badge&logo=koyeb&logoColor=white"></a>
-
-- *
-
-
-<h2 align="center"> 🎗️ *stars INCONNU-MD*
-</h2>
-
- 
-### `🧡 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰
-- *** INCONNU-TECH***
 
