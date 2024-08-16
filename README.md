@@ -10,7 +10,7 @@ meet 𝙄𝙣𝙘𝙤𝙣𝙣𝙪✵𝙈𝘿 , Your All-in-One WhatsApp Exciteme
   
 ![IMG-20240813-WA0322](https://github.com/user-attachments/assets/e07a7620-5ed7-4507-a3d8-1d17852df2a7)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+KERM-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+RAYAN+AND+GIFFAREO;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+INCONNU-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+INCONNU TECH;RELEASED+DATE+07%2F7%2F2023."                               alt="Typing SVG" /></a>
 
 
 #### 𝐒𝐄𝐓𝐔𝐏
